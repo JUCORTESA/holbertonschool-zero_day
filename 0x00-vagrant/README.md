@@ -1,0 +1,1 @@
+This is a new directory inside holbertonschool-zero_day 
