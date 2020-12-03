@@ -161,7 +161,7 @@ Type your answer into a file in the `0x00-vagrant` directory and push it to GitH
 
 * GitHub repository: `holbertonschool-zero_day`
 * Directory: `0x00-vagrant`
-* File: `0-hello_ubuntu`
+* File: [`0-hello_ubuntu`](./0-hello_ubuntu)
 
 </details>
 
